@@ -1,0 +1,24 @@
+{
+  "overview": "Queen Care is a premium Arabic RTL beauty center app for skin and hair care services. It features a luxurious minimal design with a warm beige and gold palette, offering clients an elegant way to browse services and book appointments via WhatsApp.",
+  "features": [
+    "Arabic RTL interface throughout all screens",
+    "Welcome screen with luxury branding",
+    "Skin services catalog with 6 treatments",
+    "Hair services catalog with 5 treatments",
+    "WhatsApp booking form with pre-filled messages",
+    "Contact page with location and clickable phone/WhatsApp links",
+    "Minimal premium design with beige, gold, and purple palette"
+  ],
+  "category": "beauty",
+  "tags": [
+    "arabic",
+    "rtl",
+    "beauty",
+    "skincare",
+    "haircare",
+    "booking",
+    "whatsapp",
+    "premium"
+  ],
+  "last_updated": "2026-05-10T20:13:02.876Z"
+}
